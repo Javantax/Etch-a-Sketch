@@ -10,6 +10,8 @@ function gridCreator(gridSize) {
 
     const boxes = document.querySelectorAll(".box");
     boxes.forEach(box => {
+        box.style.width = `${760/gridSize}px`;
+        box.style.height = `${680/gridSize}px`;
         box.addEventListener("mouseover", () => {
             box.classList.add("colour-change");
         })
