@@ -8,7 +8,7 @@ Etch-a-Sketch is a web-based drawing application that simulates the classic Etch
 
 - **Grid Resizing**: Change the size of the drawing grid dynamically.
 - **Rainbow Mode**: Toggle rainbow mode to draw with random colors.
-- **Responsive Design**: The grid adjusts to fit the container size.
+- **Hover Drawing**: Just hover over the board to draw no clicking required!
 
 ## Live Demo
 
