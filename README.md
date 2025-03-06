@@ -12,7 +12,7 @@ Etch-a-Sketch is a web-based drawing application that simulates the classic Etch
 
 ## Live Demo
 
-You can view a live demo of the Etch-a-Sketch application [here](https://javantax.github.io/Etch-a-Sketch/).
+You can view a live demo of the Etch-a-Sketch application [here](https://daniyxlkhan.github.io/Etch-a-Sketch/).
 
 ## Screenshot
 
